@@ -16,7 +16,7 @@ export default function body() {
                 </div>
                 
                 <div className="row">
-                    <h1 className='text-center'>Contacto</h1>
+                    <h1 className='text-center'>Contactanos</h1>
                 </div>
             </div>
         </>
