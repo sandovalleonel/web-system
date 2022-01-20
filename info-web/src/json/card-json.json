@@ -1,0 +1,17 @@
+[
+    {
+        "img":"helado.jpeg",
+        "title":"Helados",
+        "content":"Contamos con diferentes tipos de helados para que puedas elegir el que más te guste"
+    },
+    {
+        "img":"huevos.jpeg",
+        "title":"Huevos",
+        "content":"Contamos con diferentes tipos de huevos para que puedas elegir el que más te guste"
+    },
+    {
+        "img":"lacteos.jpeg",
+        "title":"Lacteos",
+        "content":"Contamos con diferentes tipos de lacteos para que puedas elegir el que más te guste"
+    }
+]
