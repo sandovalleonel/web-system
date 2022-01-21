@@ -4,7 +4,8 @@ import JsonCard from '../json/card-json.json';
 const cardImg = require.context('../card-img', true);
 export default function card() {
     return (
-        <div className="card mb-3 " style={{ "max-width": "100%" }}>
+        <div data-aos="fade-up">
+        <div  className="card mb-3 " style={{ "max-width": "100%" }}>
             {
                 JsonCard.map((item, index) => {
                     console.log(item.img);
@@ -26,6 +27,7 @@ export default function card() {
                 })
             }
 
+        </div>
         </div>
     );
 }

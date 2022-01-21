@@ -1,3 +1,36 @@
 .card-border{
 margin-top: 20px;
 }
+.nav-aux{
+    height: 50px;
+    opacity: 0.8;
+    border-bottom: none;
+}
+.contact{
+    padding-left: 10px;
+    
+}
+.contact a{
+    padding-left: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+.contact a i,.login i{
+    font-size: 20px;
+    padding-right: 10px;
+}
+.aic{
+    padding-right: 10px;
+}
+.aic a{
+    color: #fff;
+    text-decoration: none;
+    padding-right: 30px;
+}
+.nav-link:hover{
+padding: 2px;
+}
+.nav-item:hover{
+background-color: black;
+border-radius: 2px;
+}
